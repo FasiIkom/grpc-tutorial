@@ -1,5 +1,3 @@
-Collecting workspace informationI'll help answer these reflection questions based on the gRPC implementation shown in your workspace:
-
 1. Key differences between RPC types:
 - **Unary RPC**: Seen in `ProcessPayment` - single request/response, ideal for simple operations
 - **Server Streaming**: Used in `GetTransactionHistory` - streams multiple responses, good for paginated data
